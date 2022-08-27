@@ -8,7 +8,8 @@ Student Materials for Sean Goggins Software Engineering Course
 
 
 
-
+<h1>Copyright</h1>
+<p>Copyright © 2022 Sean P. Goggins. All Rights Reserved</p>
 
 <h1>Disclaimer for Sean Goggins</h1>
 
