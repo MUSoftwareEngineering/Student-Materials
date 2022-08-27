@@ -1,7 +1,31 @@
 # Student-Materials
 Student Materials for Sean Goggins Software Engineering Course
 
+# Software Engineering I: CS 4320/7320
+1. [Course Syllabus](./references/SYLLABUS.md)
+2. [Assignments](./references/assignments.md)
+3. Assignment Calendar in Canvas
+4. Assignment Submissions in Canvas
+5. Discussions before and after class are in discussion forums on Canvas
+6. **[Modules](./modules.md)** 
 
+
+-----
+
+## Erratta 
+1. First, my basic expectations: Come to class. Ask questions. Participate. Help your course mates out with technical issues.  
+2. Software engineering methods common in open source software are similar to those employed in corporate environments, and we will largely collaborate on open source projects. Some of my choosing, some of your own choosing.  All of this work will take place on GitHub, and be submitted as an assignment using Canvas. 
+
+## How People Learn
+You learn through a combination of social engagement with others, and enough cognitive stress (from the work) to push you past what you already know, or think you know. 
+ - Too much cognitive stress makes learning more difficult, so take breaks. 
+ - You can relieve cognitive stress about this course by engaging with other students, especially in the groups you are assigned. 
+ - Technical, informational, and emotional support are all components of what I refer to as an ethic of "mutual aid". Help each other out in Discord. 
+ - You can go beyond discord, too. In the open source communities where I do research and contribute there is a lot of asynchronous coordination using GitHub issues, email lists, and Slack/Discord/(Even IRC!) channels. Each group should make its own decisions about internal coordination mechanisms. **As a course, we are focusing on Discord**. 
+
+## General Thoughts on our Interesting Times
+My focus will be on ensuring you have the opportunity to understand and work with this course's curricula, and conclude your semester with a successful experience in this course regardless of the challenges we may face together. Learning to work effectively in software teams is a significantly different type of learning than mastering algorithms, data structures, or a particular language. 
+-----
 
 
 
