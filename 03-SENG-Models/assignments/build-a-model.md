@@ -1,4 +1,4 @@
-#Exercise 2.2: Build a Model
+#Exercise: Build a Model
 1. Review the UML and ERD Materials in this module. 
 2. Consider the problem of tracking student progress in course, and whether or not assignments are submitted on time. Develop the following: 
 	- An ERD representing the data that needs to be stored
