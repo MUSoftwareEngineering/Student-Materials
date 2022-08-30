@@ -48,8 +48,8 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | 9. Implementation  | 2% | CANVAS, October 10 | [Implementation Readings](../07-implementation/readings) | 
 | 10. Testing  | 3% | CANVAS, October 17 | [Testing](../08-testing/readings) | 
 | 11. Release | 5% |  CANVAS, October 22 | [Software Release](../09-release/readings) | 
-| 12. HCI Introduction | 5% |  CANVAS, October 29 | [HCI](../10-HCI-introduction/readings) | 
-| 13. EXAM 2 | 8% | CANVAS, November 8 | **Material From Architecture and Design through HCI Introduction** |
+| 12. HCI Introduction | 5% |  CANVAS, November 10 | [HCI](../10-HCI-introduction/readings) | 
+| 13. EXAM 2 | 8% | CANVAS, October 27 | **Material From Architecture and Design through Release** |
 | 14. Semester Project Launch, **November 1** | 5% | CANVAS | [Semester Project](../11-semester-project/readings) |
 | 15. Project Management | 5% | CANVAS, Novmeber 12 |  [Project Management](../12-project-management/readings) |
 | 16. Social Computing | 5% | CANVAS, November 19 |  [Social Computing](../12b-social-computing/readings) |
