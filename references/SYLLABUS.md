@@ -11,9 +11,8 @@ _The syllabus and the course schedule will evolve based on student progress. We 
  - **Prerequisite Courses CS2050, CS3380**
 
 ## Student Hours:
-- Roland Oruche: TBD
-- Maruf Hossain Shuvo: TBD
 - Dr. Goggins: TBD
+- TA Rakib
 
 ## Topics
 ### Our Topical Path Through the Semester 
@@ -65,7 +64,7 @@ _The syllabus and the course schedule will evolve based on student progress. We 
 ## Instructors
 1. Teaching Assistant
 For all technical questions, grade questions or questions regarding the class, first, make sure you have read the syllabus. Your second point of contact are the Teaching Assistant (TA) for this class. They will raise any issues to Goggins if they are unable to answer your questions.  The TA's for this course are:
-  - Wenyi Lu
+  - Rakib
 2. Instructor
   - Dr. Sean P. Goggins  Email: [goggins@missouri.edu](mailto:goggins@missouri.edu) 
 
@@ -84,19 +83,7 @@ Tuesdays and Thursdays at 2pm - 3:15pm
 3. SLACK: Join. Participate. HELP EACH OTHER. Software Engineering is a team sport. Or an orchestra. The Tubas are not competing against the Drum Corps. They may be competing against the Trombones, but lets keep that off the field. JOIN SLACK CHANNEL NOW: http://bit.ly/software-eng-spring-2020 
 
 ### Expectations 
-1. First, my basic expectations: For you to have viewed each course day's videos (short videos!), and any associated reading assignments prior to the scheduled lecture date. Again, **you are NOT required to be in the classroom, because there isn't one**. Keeping up with materials will be essential for keeping us “together” on our path. 
-2. I will have student hours on zoom every week. We can discuss the times that work best in the coming weeks.  
-3. The course will include discussion forums where you get to know each other, and discuss questions I pose for you in the assignments. 
-4. You will have access to a Slack Channel, which will usually be the swiftest channel to get my attention on during the semester. Messaging systems like Slack are also usually more appropriate for team coordination work, when compared with more asynchronous tools like discussion forums. 
-5. You will have routine "self assessments" in Canvas. They will not be a component of your grade, except that you will be required to complete them.  Your "score" replaces some of the feedback on how well you are understanding the material that I historically discern from confused looks in the classroom. But your "score" is not graded. Just completing the self assessment. 
-6. Software engineering methods common in open source software are similar to those employed in corporate environments, and we will largely collaborate on open source projects. Some of my choosing, some of your own choosing.  All of this work will take place on GitHub, and be submitted as an assignment using Canvas. 
-7. You have my personal commitment to creating a high quality learning opportunity for you, regardless of how you choose to participate. 
-
-
-## Comments on Learning in the Present Day
-People learn through a combination of social engagement with others, and enough cognitive stress to push you past what you already know, or think you know. While avoiding too much cognitive stress. Its important therefore that you take the time to engage with your course mates, and folks on teams you are assigned to work in for parts of the course. In the open source communities where I do research and contribute there is a lot of asynchronous coordination using GitHub issues, email lists, and Slack channels. Each group should make its own decisions about internal coordination mechanisms. 
-
-Emotional stress also inhibits learning, and in present times many of us are affect by these types of "learning inhibitors". As your professor this semester, I am personally committed to respecting any stress/anxiety related, or other health challenges that get in your way this semester. 
+See [README.md](../README.md)
 
 My focus will be on ensuring you have the opportunity to understand and work with this course's curricula, and conclude your semester with a successful experience in this course regardless of the challenges we may face together. Learning to work effectively in software teams is a significantly different type of learning than mastering algorithms, data structures, or a particular language.  
 
@@ -119,7 +106,7 @@ My focus will be on ensuring you have the opportunity to understand and work wit
   - Python Unit Testing Framework 
 
 ## Course Topics Resources
-It is expected that students are proficient with performing basic web-based and Engineering Library http://mulibraries.missouri.edu/engineering/ searches for information. Throughout the semester, students will be assigned reading from the IEEE Computer Society's [_Software Engineering Body of Knowledge_:](./readings/SWEBOKv3-Full.pdf)
+It is expected that students are proficient with performing basic web-based and Engineering Library http://mulibraries.missouri.edu/engineering/ searches for information. Throughout the semester, students will be assigned reading from the IEEE Computer Society's [_Software Engineering Body of Knowledge_:](./references/SWEBOKv3-Full.pdf)
 - Short summaries of lecture topics may also be provided in place of the SWEBOK chapters.
 - Additionally, IEEE, ACM and other open source papers providing thorough coverage of Software Engineering and the state of best practices will be assigned reading throughout the semester.
 
