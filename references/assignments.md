@@ -32,3 +32,7 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | 23. EXAM 3 | 8% | CANVAS | **Material from Semester Project Through Embedded Systems** |
 
  
+**All exams are in class, or in the case of the final, at the appointed university time**
+
+**Assignment Due Dates are Subject to Change, WITH notice, and Canvas is the Authoritative Due Date source** 
+
