@@ -7,7 +7,6 @@ Student Materials for Sean Goggins Software Engineering Course
 3. Assignment Calendar in Canvas
 4. Assignment Submissions in Canvas
 5. Discussions before and after class are in discussion forums on Canvas
-6. **[Modules](./modules.md)** 
 
 
 -----
