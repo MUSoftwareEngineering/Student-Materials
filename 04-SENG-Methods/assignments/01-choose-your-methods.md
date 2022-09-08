@@ -1,4 +1,4 @@
-# Exercise 2.1: Choose Your Methods
+# Exercise 4.1: Choose Your Methods
 ## Group Exercise for Course Groups (New Groups)
 **Groups are assigned in Canvas**
 
