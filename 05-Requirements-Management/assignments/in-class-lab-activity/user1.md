@@ -1,0 +1,15 @@
+# User 1
+You are a user for CHAOSS-Augur system.  You are one of the software developers on  the Project within  the
+Applications Division.  You have been with the Applications Division for three years and with the Augur Project for about six months.  You have five years of software development experience on large projects and were given a software development position on the current project as a result of demonstrating tremendous productivity and superior problem-solving skills on your last project.
+
+You are a very intelligent, capable software developer who consistently produces software solutions that are creative, innovative, and elegant.  You are highly productive, and prefer to work alone because you often get impatient with others who do not understand your solutions.  Because of this, you are extremely confident in your abilities and are never afraid to experiment with new data structure designs and new algorithms.  You utilize every available language construct at your disposal in each of the languages you use to develop software, namely C and Ada.  You are often labeled a “hacker,” but your skills are those of a software engineer; your code adheres to strict software engineering principles.  You have much respect among your peers and your ideas carry much weight.
+
+With respect to the CHAOSS-Augur software system, you are not as concerned about basic metrics functionality as you are about using the software to perform comparisons of the performance of different open source projects so you can pick a good one for your spare time.  You are more interested in acquiring functionality that will make the your skills grow, but also easier to share.  The para- graphs below describe your general requirements for the delivered software system.
+
+You agree with the customer that the capability of the software system must  at the very least differentiate healthy projects from unhealthy ones.   However, you  desire  some  more interesting functionality  and features, including better visualizations.  When creating visualization the software system should support experimenting with and downloading an image and the data. You do not know if it is possible, but you would like to be able to attach any application you want to the system's API.  
+
+You agree with the customer with respect to user interface and performance requirements.
+
+You have not thought about these requirements to any lower level of detail.  For any question or discussion, your responses should be consistent with your own personal concepts regarding windowing systems, operating systems, dumb terminals, etc.
+
+*Note: You are to use this role to guide your actions during the role-playing exercise.  The description provides only high-level guidance, however, and you are encouraged to embellish the role using your own experience and the background materials provided to you in this exercise.*
