@@ -43,7 +43,7 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | 4. Software Models | 2% | CANVAS, September 12th | [First 3 Chapters of "Engineering Software ...", and NATO Papers](../03-SENG-Models/readings) |
 | 5. Software Methods | 2% | CANVAS, September 12th | [First 3 Chapters of "Engineering Software ...", and NATO Papers](../04-SENG-Methods/readings) |
 | 6. Requirements | 3% | CANVAS, September 19th | [Requirements Readings](../05-Requirements-Management/readings) |
-| 7. EXAM 1 | 6% | CANVAS, September 22nd | **Material Through Requirements** |
+| 7. EXAM 1 | 6% | CANVAS, September 27th | **Material Through Requirements** |
 | 8. Architecture and Design | 2% | CANVAS, October 3  | [Readings List](../06-Architecture-and-Design/readings) |  
 | 9. Implementation  | 2% | CANVAS, October 10 | [Implementation Readings](../07-implementation/readings) | 
 | 10. Testing  | 3% | CANVAS, October 17 | [Testing](../08-testing/readings) | 
