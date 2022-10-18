@@ -1,4 +1,4 @@
-# Assignments
+kj# Assignments
 Assignments are to be turned in using Canvas, on time. If you are unable to submit an assignment on time, please submit the assignment with an explanation of why you are unable to submit on time. You may share as much or as little about the circumstances as you care to. 
 
 ## Assignment Calendar (WIP)
@@ -16,8 +16,8 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | 7. EXAM 1 | 6% | CANVAS, September 27th | **Material Through Requirements** |
 | 8. Architecture and Design | 2% | CANVAS, October 3 (Discussion October 7)  | [Readings List](../06-Architecture-and-Design/readings) |  
 | 9. Implementation  | 2% | CANVAS, October 10 | [Implementation Readings](../07-implementation/readings) | 
-| 10. Testing  | 3% | CANVAS, October 17 | [Testing](../08-testing/readings) | 
-| 11. Release | 5% |  CANVAS, October 22 | [Software Release](../09-release/readings) | 
+| 10. Testing  | 3% | CANVAS, October 29 | [Testing](../08-testing/readings) | 
+| 11. Release | 5% |  CANVAS, October 31 | [Software Release](../09-release/readings) | 
 | 12. HCI Introduction | 5% |  CANVAS, October 29 | [HCI](../10-HCI-introduction/readings) | 
 | 13. Semester Project Launch, **November 1** | 5% | CANVAS | [Semester Project](../11-semester-project/readings) |
 | 14. Project Management | 5% | CANVAS, Novmeber 12 |  [Project Management](../12-project-management/readings) |
