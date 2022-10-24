@@ -18,7 +18,7 @@
 
 ### Augur Software
 ![](./images/augur-map.png)
-1. [Augur Documentation](https://oss-augur.readthedocs.io/en/dev/)
+1. [Augur Documentation](https://oss-augur.readthedocs.io/en/augur-new/)
 2. [Augur Community Reports Repo](https://github.com/chaoss/augur-community-reports)
 3. http://gov.chaoss.tv/api/unstable/repos
 5. [Contributor Analysis from augur-community-reports](https://docs.google.com/presentation/d/1rLuEROyKlujjPd9AEQ5z1v0V1WPYagv454SBHFNpRDU/edit#slide=id.g8b77fbdb00_0_5)
