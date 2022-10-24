@@ -80,7 +80,7 @@ Tuesdays and Thursdays at 2pm - 3:15pm
 ## Participation in Class is Option, and TA Student Hours
 1. **This course is project based. Your assignments will involve the routine submission of working code on GitHub.**
 2. The first few weeks we will work through tooling issues with you, after that we expect you have learned how to use the slack channel and Google Each other. 
-3. SLACK: Join. Participate. HELP EACH OTHER. Software Engineering is a team sport. Or an orchestra. The Tubas are not competing against the Drum Corps. They may be competing against the Trombones, but lets keep that off the field. JOIN SLACK CHANNEL NOW: http://bit.ly/software-eng-spring-2020 
+3. SLACK: Join. Participate. HELP EACH OTHER. Software Engineering is a team sport. Or an orchestra. The Tubas are not competing against the Drum Corps. They may be competing against the Trombones, but lets keep that off the field. 
 
 ### Expectations 
 See [README.md](../README.md)
