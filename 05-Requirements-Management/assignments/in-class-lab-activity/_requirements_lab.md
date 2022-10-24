@@ -1,7 +1,5 @@
 ## Requirements Brainstorming Activity
 
-You will participate in class using Zoom Breakouts, but also have discussion forums for your groups, which you can access on Canvas: https://missouri.instructure.com/courses/41646/discussion_topics/773255
-
 ### Steps in Lab
 1. Review Materials (15 Minutes) 
     - [Review the Role of the customer](./customer.md)
