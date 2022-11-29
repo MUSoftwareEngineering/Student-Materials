@@ -54,9 +54,9 @@ This is the assignment calendar, and should be considered a work in progress. Th
 | 15. Social Computing | 5% | CANVAS, November 19 |  [Social Computing](../12b-social-computing/readings) |
 | 16. Maintenance | 5% | CANVAS, November 19 | [Maintenance](../15-maintenance/readings) |
 | 17. Embedded Systems | 5% | CANVAS, End of Exam Week | [TBD]() |
-| 18. Sprint 1 | 8% | CANVAS, November 8| [TBD]() |
+| 18. Sprint 1 | 8% | CANVAS, November 8 | [TBD]() |
 | 19. Sprint 2 | 8% | CANVAS, November 15| [TBD]() |
-| 20. Sprint 3 | 8% | CANVAS, December 3| [TBD]() |
+| 20. Sprint 3 | 8% | CANVAS, December 7 | [TBD]() |
 | 21. Sprint 4 | 8% | CANVAS, Monday after exam week | [TBD]() |
 | 22. EXAM 3 | 6% | CANVAS | ****Material From Architecture and Design, and Material from Semester Project Through Embedded Systems** |
 
