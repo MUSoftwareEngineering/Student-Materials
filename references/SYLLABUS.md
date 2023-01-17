@@ -1,7 +1,7 @@
 # Syllabus
 This is a face to face class. 
 
-**Points**: There are around 1,000 points in this course. We will divide your final score by the total number of points to arrive at your grade. Canvas *should* to this for us, but we always double check. You *should* see how you are doing as I submit grades. If you have any questions or concerns, please ask. 
+**Points**: There are around points assigned to each assignment in this course. We will divide your final score by the total number of points to arrive at your grade. Canvas *should* do this for us, but we always double check. You *should* see how you are doing as I submit grades. If you have any questions or concerns, please ask. 
 
 _The syllabus and the course schedule will evolve based on student progress. We will never alter the syllabus for assignments in the past or percentage of the grade. Topics may be changed and assignments substituted as necessary. Please make sure you are looking at the current version of the syllabus from Canvas at all times.  Any changes will be announced in class as well._
 
@@ -11,8 +11,11 @@ _The syllabus and the course schedule will evolve based on student progress. We 
  - **Prerequisite Courses CS2050, CS3380**
 
 ## Student Hours:
-- Dr. Goggins: TBD
-- TA Rakib
+- Dr. Goggins: gogginss@missouri.edu
+- TA's 
+  + Rakib Ul Karim <rakib_eee@yahoo.com>
+  + John McGinnis <mcginnessj@mail.missouri.edu>
+  + Kaveh Safavigerdini <ksgh2@missouri.edu>
 
 ## Topics
 ### Our Topical Path Through the Semester 
@@ -64,7 +67,11 @@ _The syllabus and the course schedule will evolve based on student progress. We 
 ## Instructors
 1. Teaching Assistant
 For all technical questions, grade questions or questions regarding the class, first, make sure you have read the syllabus. Your second point of contact are the Teaching Assistant (TA) for this class. They will raise any issues to Goggins if they are unable to answer your questions.  The TA's for this course are:
-  - Rakib
+  + Dr. Goggins: gogginss@missouri.edu
+  + TA's 
+    * Rakib Ul Karim <rakib_eee@yahoo.com>
+    * John McGinnis <mcginnessj@mail.missouri.edu>
+    * Kaveh Safavigerdini <ksgh2@missouri.edu>
 2. Instructor
   - Dr. Sean P. Goggins  Email: [goggins@missouri.edu](mailto:goggins@missouri.edu) 
 
@@ -72,7 +79,7 @@ For all technical questions, grade questions or questions regarding the class, f
 
 Tuesdays and Thursdays at 2pm - 3:15pm
 
-## Git and Github 
+## Git and Github
 1. Use this cheat sheet. You will need it. [CHEAT SHEET](./github-git-cheat-sheet.pdf)
 2. Git and Github are TEAM oriented software engineering technologies. Teamwork is now organic to computing, programming, developing, designing, and many parts of life. 
  
@@ -82,7 +89,7 @@ Tuesdays and Thursdays at 2pm - 3:15pm
 2. The first few weeks we will work through tooling issues with you, after that we expect you have learned how to use the slack channel and Google Each other. 
 3. SLACK: Join. Participate. HELP EACH OTHER. Software Engineering is a team sport. Or an orchestra. The Tubas are not competing against the Drum Corps. They may be competing against the Trombones, but lets keep that off the field. 
 
-### Expectations 
+### Expectations
 See [README.md](../README.md)
 
 My focus will be on ensuring you have the opportunity to understand and work with this course's curricula, and conclude your semester with a successful experience in this course regardless of the challenges we may face together. Learning to work effectively in software teams is a significantly different type of learning than mastering algorithms, data structures, or a particular language.  
@@ -135,7 +142,7 @@ It is expected that students are proficient with performing basic web-based and 
 ## Grading Scales
 Grades will be **+/-** for both Undergraduates and Graduate Students. Per assignment breakdowns are here: 
 
-### Undergraduate 
+### Undergraduate
 - (Letter Grade : %)
 - A+ : 97 >
 - A  : 93 – 96
@@ -151,7 +158,7 @@ Grades will be **+/-** for both Undergraduates and Graduate Students. Per assign
 - D- : 60 – 62
 - F : < 60
 
-### Graduate 
+### Graduate
 (Letter Grade : %)
 - A+ : 97 >
 - A  : 93 – 96
