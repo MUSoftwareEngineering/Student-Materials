@@ -1,7 +1,7 @@
 # Syllabus
 This is a face to face class. 
 
-**Points**: There are around points assigned to each assignment in this course. We will divide your final score by the total number of points to arrive at your grade. Canvas *should* do this for us, but we always double check. You *should* see how you are doing as I submit grades. If you have any questions or concerns, please ask. 
+**Points**: There are points assigned to each assignment in this course. We will divide your final score by the total number of points to arrive at your grade. Canvas *should* do this for us, but we always double check. You *should* see how you are doing as I submit grades. If you have any questions or concerns, please ask. 
 
 _The syllabus and the course schedule will evolve based on student progress. We will never alter the syllabus for assignments in the past or percentage of the grade. Topics may be changed and assignments substituted as necessary. Please make sure you are looking at the current version of the syllabus from Canvas at all times.  Any changes will be announced in class as well._
 
