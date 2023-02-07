@@ -32,7 +32,7 @@ With hundreds of thousands of open source projects, technology companies and IT 
 ## Deliverable
 Create at least one use case, using the template provided, and identify at least 20 discrete requirements, using the sample spreadsheet for requirements tracking provided. 
 
-> **_NOTE:_** ## Deliverable*s*  __confusion clarification from Slack__ 
+> **_NOTE:_** ## Deliverable*s*  __confusion clarification from Discord__ 
 > 1. Complete the template specified in the requirements management process
 > 2. Include at least 1 use case (Note I say "2" in the outline, and any time there's a number discrepency the error is corrected in favor of demanding less. So its one), and 
 > 3. Identify at least 20 discrete requirements, using the sample spreadsheet for requirements tracking provided. 
