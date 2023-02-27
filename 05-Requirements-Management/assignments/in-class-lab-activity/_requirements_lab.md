@@ -1,4 +1,4 @@
-## Requirements Brainstorming Activity
+## Requirements Brainstorming Activity 
 
 ### Steps in Lab
 1. Review Materials (15 Minutes) 
