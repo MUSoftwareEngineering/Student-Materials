@@ -1,0 +1,1 @@
+`pandoc -o supplied_requirements.docx -f markdown -t docx supplied_requirements.md`
