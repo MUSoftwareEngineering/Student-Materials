@@ -9,9 +9,6 @@ Student Materials for Sean Goggins Software Engineering Course
 5. Discussions before and after class are in discussion forums on Canvas
 6. Q&A and Team Collaboration in Discord: https://discord.gg/PW2wgSdR
 
-
------
-
 ## Erratta
 1. First, my basic expectations: Come to class. Ask questions. Participate. Help your course mates out with technical issues.  
 2. Software engineering methods common in open source software are similar to those employed in corporate environments, and we will largely collaborate on open source projects. Some of my choosing, some of your own choosing.  All of this work will take place on GitHub, and be submitted as an assignment using Canvas. 
