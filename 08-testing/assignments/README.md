@@ -1,4 +1,4 @@
-# Exercise 07.1 - Construction and Testing
+# Exercise - Construction and Testing
 ## CS4320/7320 Software Engineering
 
 [Setup your python virtual environment first.](./venv.md)
