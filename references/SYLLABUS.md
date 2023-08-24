@@ -1,7 +1,13 @@
-# Syllabus : Also available at: https://github.com/MUSoftwareEngineering/Student-Materials/blob/main/references/SYLLABUS.md
+# Syllabus :
+
+Also available at: https://github.com/MUSoftwareEngineering/Student-Materials/blob/main/references/SYLLABUS.md
+
+In fact, that repository is a mirror of most of the materials I will use in Canvas. This semester is different from prior semesters of this course, as we will be front-loading a lot of the work and begin designing, writing, and testing software from the start.
+
+
 This is a face to face class. 
 
-AI Policy: The use of generative AI tools in this class is strongly encouraged. However, if you use an AI tool to help you generate responses, you must submit the URL pointing to the AI prompt and discuss alterations you made to the response. In addition, you are still responsible for the accuracy of the content you submit. In other words, you will still be penalized if the AI system generates inaccurate information. As such, you are required to double-check any output you use from the tools to make sure it is correct. We will be discussing this early on in the class.
+AI Policy: Generative AI tools in this class are strongly encouraged. However, if you use an AI tool to help you generate responses, you must submit the URL pointing to the AI prompt and discuss alterations you made to the response. In addition, you are still responsible for the accuracy of the content you submit. In other words, you will still be penalized if the AI system generates inaccurate information. As such, you are required to double-check any output you use from the tools to make sure it is correct. We will be discussing this early on in the class.
 
 **Points**: There are points assigned to each assignment in this course. We will divide your final score by the total number of points to arrive at your grade. Canvas *should* do this for us, but we always double check. You *should* see how you are doing as I submit grades. If you have any questions or concerns, please ask. 
 
@@ -216,7 +222,7 @@ _Students with Disabilities:_
   - All students will be able to submit an anonymous evaluation of the instructor(s) at the end of the course._
 
 ## Recording Course Activities
- - _University of Missouri System Executive Order No. 38 lays out principles regarding the sanctity of classroom discussions at the university. The policy is described fully in Section 200.015 of the Collected Rules and Regulations. __**In this class, students are not allowed to make audio or video recordings of course activity unless specifically granted permission by Dr. Goggins**__. However, the redistribution of audio or video recordings of statements or comments from the course to individuals who are not students in the course is prohibited without the express permission of the faculty member and of any recorded students. Students found to have violated this policy are subject to discipline following provisions of Section 200.020 of the Collected Rules and Regulations of the University of Missouri pertaining to student conduct matters.__
+ - _University of Missouri System Executive Order No. 38 lays out principles regarding the sanctity of classroom discussions at the university. The policy is described fully in Section 200.015 of the Collected Rules and Regulations._ _ **In this class, students are not allowed to make audio or video recordings of course activity unless specifically granted permission by Dr. Goggins** __. However, the redistribution of audio or video recordings of statements or comments from the course to individuals who are not students in the course is prohibited without the express permission of the faculty member and of any recorded students. Students found to have violated this policy are subject to discipline following provisions of Section 200.020 of the Collected Rules and Regulations of the University of Missouri pertaining to student conduct matters._
 
 ## Decreasing the Risk of COVID-19 in Classrooms and Labs
 
