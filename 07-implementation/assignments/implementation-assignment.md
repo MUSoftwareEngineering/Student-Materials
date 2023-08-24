@@ -1,4 +1,0 @@
-# Implementation
-
-Assignment TBD
-
