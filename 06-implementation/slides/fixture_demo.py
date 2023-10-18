@@ -18,6 +18,9 @@ def example_fixture3():
 def toad_swift():
     return 9
 
+@pytest.fixture
+def 
+
 
 def test_with_fixture(example_fixture):
     assert example_fixture == 1
